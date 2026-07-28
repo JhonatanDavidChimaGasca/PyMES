@@ -20,7 +20,7 @@ Este prototipo fue desarrollado utilizando tecnologías orientadas al desarrollo
 -Arquitectura por capas, separando responsabilidades entre dominio, acceso a datos y presentación, favoreciendo la mantenibilidad y escalabilidad del sistema. Esto coincide con la estructura observada en el código (core, data, domain, screens, etc).
 
 
-##Acerca de este repositorio
+## Acerca de este repositorio
 
 Este repositorio corresponde a una versión demostrativa del proyecto PyMES.
 
