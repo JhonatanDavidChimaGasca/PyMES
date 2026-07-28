@@ -8,6 +8,7 @@ El código presentado en este repositorio refleja parte del diseño e implementa
 
 ---
 ##Tecnologías utilizadas
+
 Este prototipo fue desarrollado utilizando tecnologías orientadas al desarrollo multiplataforma y arquitecturas modernas de software:
 
 - Flutter como framework principal para el desarrollo de la aplicación móvil.
