@@ -17,4 +17,4 @@ Este prototipo fue desarrollado utilizando tecnologías orientadas al desarrollo
 - Cloud Firestore para el almacenamiento y consulta de información.
 - SharedPreferences para la persistencia local de configuraciones y datos temporales.
 - Docker como herramienta para la administración y despliegue del entorno de desarrollo del proyecto.
--Arquitectura por capas, separando responsabilidades entre dominio, acceso a datos y presentación, favoreciendo la mantenibilidad y escalabilidad del sistema. Esto coincide con la estructura observada en el código (core, data, domain, screens, etc.)
+-Arquitectura por capas, separando responsabilidades entre dominio, acceso a datos y presentación, favoreciendo la mantenibilidad y escalabilidad del sistema. Esto coincide con la estructura observada en el código (core, data, domain, screens, etc).
