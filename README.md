@@ -6,7 +6,7 @@ El proyecto busca centralizar procesos que normalmente se realizan mediante apli
 
 El código presentado en este repositorio refleja parte del diseño e implementación del prototipo, incluyendo la organización de la arquitectura, los modelos de dominio y las principales interfaces desarrolladas durante el proceso de construcción del sistema. El objetivo de esta publicación es documentar el desarrollo realizado y servir como evidencia técnica del proyecto académico. Este resumen está basado en la introducción, delimitación y objetivos del proyecto.
 
----
+
 ## Tecnologías utilizadas
 
 Este prototipo fue desarrollado utilizando tecnologías orientadas al desarrollo multiplataforma y arquitecturas modernas de software:
