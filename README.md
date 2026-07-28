@@ -5,3 +5,15 @@ PyMES es un prototipo funcional de una aplicación móvil desarrollada como proy
 El proyecto busca centralizar procesos que normalmente se realizan mediante aplicaciones de mensajería, redes sociales y registros manuales, ofreciendo una alternativa organizada para la administración de productos, la publicación de productos, promociones y la interacción entre usuarios.
 
 El código presentado en este repositorio refleja parte del diseño e implementación del prototipo, incluyendo la organización de la arquitectura, los modelos de dominio y las principales interfaces desarrolladas durante el proceso de construcción del sistema. El objetivo de esta publicación es documentar el desarrollo realizado y servir como evidencia técnica del proyecto académico. Este resumen está basado en la introducción, delimitación y objetivos del proyecto.
+
+---
+##Tecnologías utilizadas
+Este prototipo fue desarrollado utilizando tecnologías orientadas al desarrollo multiplataforma y arquitecturas modernas de software:
+
+- Flutter como framework principal para el desarrollo de la aplicación móvil.
+- Dart como lenguaje de programación.
+- Firebase Authentication para la autenticación de usuarios.
+- Cloud Firestore para el almacenamiento y consulta de información.
+- SharedPreferences para la persistencia local de configuraciones y datos temporales.
+- Docker como herramienta para la administración y despliegue del entorno de desarrollo del proyecto.
+-Arquitectura por capas, separando responsabilidades entre dominio, acceso a datos y presentación, favoreciendo la mantenibilidad y escalabilidad del sistema. Esto coincide con la estructura observada en el código (core, data, domain, screens, etc.)
