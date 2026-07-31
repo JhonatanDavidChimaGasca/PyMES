@@ -1,6 +1,6 @@
-# PyMES
+# Lyntra
 
-PyMES es un prototipo funcional de una aplicación móvil desarrollada como proyecto de investigación, cuyo objetivo es brindar una solución tecnológica para pequeños emprendedores, estudiantes y trabajadores independientes que requieren promocionar sus productos desde una única plataforma.
+Lyntra es un prototipo funcional de una aplicación móvil desarrollada como proyecto de investigación, cuyo objetivo es brindar una solución tecnológica para pequeños emprendedores, estudiantes y trabajadores independientes que requieren promocionar sus productos desde una única plataforma.
 
 El proyecto busca centralizar procesos que normalmente se realizan mediante aplicaciones de mensajería, redes sociales y registros manuales, ofreciendo una alternativa organizada para la administración de productos, la publicación de productos, promociones y la interacción entre usuarios.
 
